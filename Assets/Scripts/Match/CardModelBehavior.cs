@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Hero : MonoBehaviour {
+public class CardModelBehavior : MonoBehaviour {
 
 	// Use this for initialization
 	void Start () {
